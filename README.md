@@ -1,5 +1,4 @@
 # PC-Based-Data-Logger
-# PC-Based-Data-Logger
 
 JUSTIFICATION FOR PROJECT
 
@@ -7,6 +6,7 @@ With the ever-growing need for data acquisition in many fields employing data co
 over a long period of time with minimal supervision and easy download of the data by the user for analysis and presentation
 
 WHAT IS THIS PROJECT?
+
 This project describes the design and implementation of a general data logger system that is able to collect data from multiple input channels and to store the same in a personal computer or external storage.
 
 Arduino Mega microcontroller is used as the primary controller. The Arduino processes all the sensory data from the sensors (temperature sensor, humidity sensor, and Light sensor) 
