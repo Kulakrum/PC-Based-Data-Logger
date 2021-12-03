@@ -15,4 +15,4 @@ A prototype pc based data logger is then developed and tested to verify the conc
 
 OBTAINMENT OF RESULTS
 
-Once configured, the data logger was able to record data onto a micro SD card which was in a (.txt) format file that can easily be imported to and analyzed by Microsoft Excel software for clear visualization of the variation in sensor parameters.
+Once configured, the data logger was able to record data real-time to a web connected API(website) as well as onto a micro SD card which was in a (.txt) format file that can easily be imported to and analyzed by Microsoft Excel software for clear visualization of the variation in sensor parameters.
