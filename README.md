@@ -13,5 +13,6 @@ Arduino Mega microcontroller is used as the primary controller. The Arduino proc
 and provides appropriate control signals to store the data to an external device for analysis. 
 A prototype pc based data logger is then developed and tested to verify the concept mentioned
 
-How to Test 
-Once configured, the dta logger was able to record data onto a micro SD card which was in a (.txt) format file that can easily be imported to and analyzed by Microsoft Excel software for clear visualization of the variation in sensor parameters.
+OBTAINMENT OF RESULTS
+
+Once configured, the data logger was able to record data onto a micro SD card which was in a (.txt) format file that can easily be imported to and analyzed by Microsoft Excel software for clear visualization of the variation in sensor parameters.
